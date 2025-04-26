@@ -1,5 +1,5 @@
-#include "turma.h"
-#include "aluno.h"
+#include "..\include\turma.h"
+#include "..\include\aluno.h"
 #include <stdio.h>
 #include <string.h>
 

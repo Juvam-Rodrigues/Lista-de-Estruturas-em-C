@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "turma.h"
-#include "aluno.h"
+#include "..\include\turma.h"
+#include "..\include\aluno.h"
 #include <string.h>
 
 int main()
